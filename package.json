@@ -28,7 +28,7 @@
   "dependencies": {
     "formik": "^1.5.8",
     "libphonenumber-js": "^1.7.18",
-    "next": "^8.1.0",
+    "next": "^11.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "svg-country-flags": "^1.2.6",
